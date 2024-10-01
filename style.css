@@ -23,16 +23,15 @@ h1{
 
 .timer-display{
     width: 80%;
-    height: 40%;
+    height: 50%;
     background-color: rgb(139, 199, 252);
     margin-top: 20px;
     margin-left: 10%;
     font-size: 50px;
     font-family: 'Roboto',sans-serif;
     display: flex;
-    justify-content: center;
-    align-items: center;
     border-radius: 5px;
+    justify-content: center;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.338);
 }
 
@@ -42,9 +41,9 @@ h1{
 }
 .buttons button{
     width: 120px;
-    height: 50px;
-    margin-top: 30px;
-    font-size: 25px;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 20px;
     padding: 10px;
     border: none;
     border-radius: 5px;
